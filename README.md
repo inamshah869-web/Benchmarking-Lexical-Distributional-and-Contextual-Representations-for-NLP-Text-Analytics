@@ -1,0 +1,2 @@
+# Benchmarking-Lexical-Distributional-and-Contextual-Representations-for-NLP-Text-Analytics
+This project evaluates and compares different text representation methods—TF-IDF, Word2Vec, GloVe, and DistilBERT—across major natural language processing tasks including multi-class topic classification, sentiment analysis, and topic modeling. The results highlight performance trade-offs, accuracy, and computational efficiency.
